@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDefinitions", "DictionaryDefinitions\DictionaryDefinitions.csproj", "{B3856E68-6E87-41A7-813B-7C8AC723701F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryProductLocation", "DictionaryProductLocation\DictionaryProductLocation.csproj", "{31A4474D-7219-4A2E-9622-20EEEEC3120E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryUserDetails", "DictionaryUserDetails\DictionaryUserDetails.csproj", "{37BBB2D0-CEC3-4A66-932D-37AFA6E3FC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashtablePhoneBook", "HashtablePhoneBook\HashtablePhoneBook.csproj", "{67BC90AF-A6A1-4B04-8B65-DE1B74384CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCoupons", "SetCoupons\SetCoupons.csproj", "{FC4D704B-AD80-41AF-95AD-3509066441EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetDuplicates", "SetDuplicates\SetDuplicates.csproj", "{B6443411-7FA9-4FB7-80EA-3E2B6398A4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetPools", "SetPools\SetPools.csproj", "{2C5FE07D-D8FE-489B-B9EE-8CD4D58CF8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3856E68-6E87-41A7-813B-7C8AC723701F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3856E68-6E87-41A7-813B-7C8AC723701F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3856E68-6E87-41A7-813B-7C8AC723701F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3856E68-6E87-41A7-813B-7C8AC723701F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A4474D-7219-4A2E-9622-20EEEEC3120E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A4474D-7219-4A2E-9622-20EEEEC3120E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A4474D-7219-4A2E-9622-20EEEEC3120E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A4474D-7219-4A2E-9622-20EEEEC3120E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BBB2D0-CEC3-4A66-932D-37AFA6E3FC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BBB2D0-CEC3-4A66-932D-37AFA6E3FC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BBB2D0-CEC3-4A66-932D-37AFA6E3FC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BBB2D0-CEC3-4A66-932D-37AFA6E3FC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BC90AF-A6A1-4B04-8B65-DE1B74384CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BC90AF-A6A1-4B04-8B65-DE1B74384CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BC90AF-A6A1-4B04-8B65-DE1B74384CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BC90AF-A6A1-4B04-8B65-DE1B74384CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4D704B-AD80-41AF-95AD-3509066441EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4D704B-AD80-41AF-95AD-3509066441EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4D704B-AD80-41AF-95AD-3509066441EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4D704B-AD80-41AF-95AD-3509066441EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6443411-7FA9-4FB7-80EA-3E2B6398A4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6443411-7FA9-4FB7-80EA-3E2B6398A4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6443411-7FA9-4FB7-80EA-3E2B6398A4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6443411-7FA9-4FB7-80EA-3E2B6398A4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5FE07D-D8FE-489B-B9EE-8CD4D58CF8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5FE07D-D8FE-489B-B9EE-8CD4D58CF8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5FE07D-D8FE-489B-B9EE-8CD4D58CF8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5FE07D-D8FE-489B-B9EE-8CD4D58CF8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D585E36-5B7B-4A12-A2EA-7FBAFE8A8A2A}
+	EndGlobalSection
+EndGlobal

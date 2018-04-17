@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\bin\Debug\Trees.exe.config
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\bin\Debug\Trees.exe
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\bin\Debug\Trees.pdb
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\obj\Debug\Trees.exe
+C:\Users\admin\Desktop\B09540_05_CODES\Chapter05\Chapter05\Trees\obj\Debug\Trees.pdb
